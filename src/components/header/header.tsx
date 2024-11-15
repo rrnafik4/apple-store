@@ -8,10 +8,10 @@ import {
   Toolbar,
   useMediaQuery,
 } from "@mui/material";
-import Logo from "../png/log.png";
+import Logo from "../../png/log.png";
 
 import styled from "@emotion/styled";
-import { MenuSection } from "./MenuSection";
+import { MenuSection } from "./menu/MenuSection";
 
 export const Header = () => {
   const isSmallScreen = useMediaQuery("(max-width:604px)");
