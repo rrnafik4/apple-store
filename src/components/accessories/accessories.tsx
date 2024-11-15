@@ -2,7 +2,7 @@ import { Box, useMediaQuery } from "@mui/material";
 import IphoneWhiteBlack from "../../png/iphoneWhiteBlack.png";
 
 export const Accessories = () => {
-  const tablet = useMediaQuery("(max-width:1075px)");
+  // const tablet = useMediaQuery("(max-width:1075px)");
 
   return (
     <div>
