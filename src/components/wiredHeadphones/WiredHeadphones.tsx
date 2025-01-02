@@ -1,6 +1,4 @@
-import { Box, styled, useMediaQuery } from "@mui/material";
-import CardBox from "../../png/wired/cardBox.png";
-import Byz from "../../png/wired/byz.png";
+import { Box, useMediaQuery } from "@mui/material";
 
 import { PropsCovers } from "../../tsconfig";
 import { StylesTextCovers } from "../../globlStyled";

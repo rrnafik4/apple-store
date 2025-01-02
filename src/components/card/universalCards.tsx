@@ -15,7 +15,7 @@ export const UniversalCards: FC<propsUniversalCards> = (img) => {
     <Box>
       <Box
         sx={{
-          width: "350px",
+          width: "334px",
           widows: "100%",
           background: "#FFFFFF",
           height: "407px",
